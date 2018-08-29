@@ -1,1 +1,1 @@
-# slm demo
+# Demonstrations of _slm_
