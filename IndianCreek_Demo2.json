@@ -1,0 +1,20 @@
+{
+	"geodata": {
+		"title" :         "Indian Creek ROI4, Ohio, USA, UTM Zone 17N",
+		"dtm_file" :      "IndianCreek_res1m_fillsinks0p01.tif",
+		"data_path" :     [ ".", "data", "IndianCreek" ],
+		"export_path" :   [ ".",  "IndianCreek_Demo2" ]
+	},
+
+	"trace": {
+		"shuffle_rng_seed" : 3
+	},
+
+	"plot": {
+        "mhsl_pdf_x_stretch" : 1.0,
+        "contour_label_fontsize" : 5,
+        "hsl_colorbar_aspect" : 0.04,
+        "contour_hsl_colorbar_aspect" : 0.04,
+        "do_plot_aspect_contours" : false
+  	}
+}

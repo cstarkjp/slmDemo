@@ -1,0 +1,13 @@
+*aux.xml
+*.xml
+*.ovr
+*~
+*.aux
+*.qgs
+.ipynb_checkpoints/*
+.ipynb_checkpoints/*ipynb
+GabilanMesa_Demo?
+GuadalupeMtns_Demo?
+Ikawa_Demo1
+IndianCreek_Demo?
+Skunk_Demo1
