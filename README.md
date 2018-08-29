@@ -1,1 +1,1 @@
-# Demonstrations of _slm_
+# Demonstrations of _slm_ analysis
