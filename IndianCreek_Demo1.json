@@ -1,6 +1,6 @@
 {
 	"geodata": {
-		"title" :         "Indian Creek ROI3, Ohio, USA, UTM Zone 17N",
+		"title" :         "Indian Creek Demo#1, Ohio, USA",
 		"dtm_file" :      "IndianCreek_res1m_fillsinks0p01.tif",
 		"data_path" :     [ ".", "data", "IndianCreek" ],
 		"export_path" :   [ ".",  "IndianCreek_Demo1" ],		

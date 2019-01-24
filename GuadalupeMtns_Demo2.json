@@ -1,6 +1,6 @@
 {
 	"geodata": {
-		"title" :         "Guadalupe Mtns ROI3, NM, USA, UTM Zone 13N",
+		"title" :         "Guadalupe Mtns Demo#2, NM, USA",
 		"dtm_file" :      "Guadalupe_DTM0_res2m_fill_sinks1deg.tif",
 		"basins_file" :   "Guadalupe_DTM0_res2m_fill_sinks1deg_watershed3k.tif",
 		"data_path" :     [ ".", "data", "GuadalupeMtns" ],	
@@ -12,10 +12,10 @@
 		"do_basin_masking" : false
 	},
 
-	"Xmapping": {
-		"coarse_segmentation_threshold" : 300,
-		"coarse_channel_threshold"      : 300,
-		"fine_segmentation_threshold"   : 300
+	"mapping": {
+		"Xcoarse_segmentation_threshold" : 300,
+		"Xcoarse_channel_threshold"      : 300,
+		"Xfine_segmentation_threshold"   : 300
 	},
 	
 	"plot": {

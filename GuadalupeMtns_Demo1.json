@@ -1,6 +1,6 @@
 {
 	"geodata": {
-		"title" :         "Guadalupe Mtns ROI2, NM, USA, UTM Zone 13N",
+		"title" :         "Guadalupe Mtns Demo#1, NM, USA",
 		"dtm_file" :      "Guadalupe_DTM0_res2m_fill_sinks1deg.tif",
 		"data_path" :     [ ".", "data", "GuadalupeMtns" ],	
 		"export_path" :   [ ".",  "GuadalupeMtns_Demo1" ],	

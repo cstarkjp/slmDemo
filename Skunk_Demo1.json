@@ -1,6 +1,6 @@
 {
 	"geodata": {
-		"title" :         "Skunk Creek, CA, USA, UTM Zone 10N",
+		"title" :         "Skunk Creek Demo#1, CA, USA",
 		"dtm_file" :      "Skunk_DTM_res1m_fill_sinks0p01deg.tif",
 		"data_path" :     [ ".", "data", "Skunk" ],
 		"export_path" :   [ ".",  "Skunk_Demo1" ]

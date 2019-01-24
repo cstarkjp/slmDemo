@@ -1,6 +1,6 @@
 {
 	"geodata": {
-		"title" :         "Ikawa ROI1, JP, UTM Zone 54N",
+		"title" :         "Ikawa Demo#1, Japan",
 		"dtm_file" :      "Ikawa1_res1m_fillsinks0p01deg.tif",
 		"basins_file" :   "Ikawa1_res1m_fillsinks0p01deg_basins25k.tif",
 		"data_path":      [ ".", "data", "Ikawa" ],
